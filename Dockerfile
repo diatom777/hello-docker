@@ -1,2 +1,2 @@
-FROM busybox:latest
-CMD echo Hello World
+docker pull 011184/ubuntu_alex
+
